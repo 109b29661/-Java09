@@ -1,9 +1,13 @@
 class CRectangle{
 	int width;
 	int  height;
-	CRectangle(){
-    width = 10;
-    height = 8;
+CRectangle(int w,int h){
+	w = width;
+	h = height;
+	}
+CRectangle(){
+        width = 10;
+        height = 8;
 	}
 }
 public class Class01 {
