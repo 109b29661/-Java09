@@ -5,6 +5,7 @@ class CRectangle{
 		w = width;
 		h = height;
 	}
+	
 }
 public class Class01 {
 
