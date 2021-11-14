@@ -1,3 +1,4 @@
+package java09;
 class CRectangle{
 	int width;
 	int  height;
