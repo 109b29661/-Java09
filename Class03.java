@@ -11,7 +11,7 @@ class Caaa{           //不可宣告為public，一個文件中只有與文件�
 		System.out.println("value="+value);
 	}
 }
-public class class03 
+public class Class03 
 {
 	public static void main(String args[]) {
     Caaa obj1 = new Caaa();//呼叫public Caaa()
